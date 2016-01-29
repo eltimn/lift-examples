@@ -1,0 +1,12 @@
+body {
+  padding-top: 70px;
+}
+
+#ajax-spinner {
+  display: none;
+  float: right;
+}
+
+.large-text {
+  font-size: 1.2em;
+}
